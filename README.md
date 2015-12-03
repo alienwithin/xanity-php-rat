@@ -1,4 +1,4 @@
-# xanity-php-rat
+# Xanity 2.0 PHP RAT
 
 This is a xanity leak for those interested in malware research. 
 
