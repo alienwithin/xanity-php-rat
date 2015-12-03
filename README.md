@@ -1,6 +1,6 @@
 # xanity-php-rat
 
-This is a xanity leak. 
+This is a xanity leak for those interested in malware research. 
 
 It  keeps the stub updated and FUD and with its built-in Scanner, that does not distribute, 
 it will be FUD almost for a while. Xanity uses CodeDom to compile the Stub to a very low Size(49kb). 
